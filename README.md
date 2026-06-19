@@ -1,7 +1,7 @@
 # JWT Microservices — Autenticación Stateless con RS256
 
 **Universidad de las Fuerzas Armadas ESPE**  
-Departamento de Ciencias de la Computación | Arquitectura de Seguridad Avanzada
+Departamento de Ciencias de la Computación | Aplicaciones Distribuidas
 
 ---
 
